@@ -72,6 +72,18 @@ COMPANY_TARGET_COURSES = {
         "Ciência da Computação",
         "Design",
         "Administração"
+    ],
+    "natura": [
+        "Engenharia Química",
+        "Engenharia de Produção",
+        "Química",
+        "Química Tecnológica",
+        "Farmácia",
+        "Engenharia Ambiental",
+        "Ciência da Computação",
+        "Sistemas de Informação",
+        "Administração",
+        "Design"
     ]
 }
 
@@ -220,6 +232,13 @@ def get_default_macro_areas(company_name):
             "📈 Gestão, Produção & Negócios",
             "🎨 Design, Comunicação & Marketing"
         ]
+    elif "natura" in key:
+        return [
+            "🧪 Química, Materiais & Metalurgia",
+            "📈 Gestão, Produção & Negócios",
+            "💻 TI, Computação & Software",
+            "🎨 Design, Comunicação & Marketing"
+        ]
     elif "stellantis" in key or "fiat" in key:
         return [
             "⚙️ Mecânica, Manufatura & Aeroespacial",
@@ -268,6 +287,12 @@ def get_default_initiatives(company_name):
             "💡 Empresas Juniores da UFMG (CPE Jr., Minas Jr., Otimiza Jr., EMAS Jr., etc.)",
             "🎓 PETs (Programas de Educação Tutorial) (PET Elétrica, Mecânica, Civil, etc.)"
         ]
+    elif "natura" in key:
+        return [
+            "💡 Empresas Juniores da UFMG (CPE Jr., Minas Jr., Otimiza Jr., EMAS Jr., etc.)",
+            "🔬 Laboratórios de Pesquisa Aplicada & P&D da Escola de Engenharia",
+            "🎓 PETs (Programas de Educação Tutorial) (PET Elétrica, Mecânica, Civil, etc.)"
+        ]
     elif "stellantis" in key or "fiat" in key:
         return [
             "🏎️ Fórmula SAE UFMG (Carro de corrida a combustão, telemetria e powertrain)",
@@ -294,6 +319,11 @@ def get_default_ciclos(company_name):
             "🌸 1º Semestre (Fevereiro a Abril) — Ciclo de Estágio do Meio do Ano",
             "🍂 2º Semestre (Agosto a Outubro) — Principal Ciclo de Estágio & Trainee (Alinhado à Feira)"
         ]
+    elif "natura" in key:
+        return [
+            "☀️ Meio do Ano (Maio a Junho) — Programas de Férias e Estágio",
+            "🍂 2º Semestre (Agosto a Outubro) — Principal Ciclo de Estágio & Trainee (Alinhado à Feira)"
+        ]
     return [
         "🍂 2º Semestre (Agosto a Outubro) — Principal Ciclo de Estágio & Trainee (Alinhado à Feira)",
         "🌸 1º Semestre (Fevereiro a Abril) — Ciclo de Estágio do Meio do Ano"
@@ -317,7 +347,7 @@ def get_default_atuacao(company_name):
             "🏢 Sim: Participaram de edições anteriores da Feira de Carreiras",
             "🔬 Sim: Projetos de Pesquisa, P&D ou Laboratórios com professores"
         ]
-    elif "carmeuse" in key:
+    elif "carmeuse" in key or "natura" in key:
         return ["❌ Ainda não atuam formalmente (Oportunidade pioneira na Feira)"]
     elif "hotmart" in key or "stellantis" in key:
         return ["🏢 Sim: Participaram de edições anteriores da Feira de Carreiras"]

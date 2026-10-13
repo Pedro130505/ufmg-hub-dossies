@@ -797,6 +797,129 @@ KNOWLEDGE_BASE = {
             {"objecao": "Queremos focar mais em projetos com professores e menos em estande de feira.", "resposta": "A Cota Ouro inclui a Arena de Iniciativas, que é exatamente o espaço de conexão com os grupos de extensão, laboratórios e equipes acadêmicas (Fórmula SAE, Baja e Otimiza Jr). Une recrutamento com relacionamento acadêmico."}
         ]
     },
+
+    "natura": {
+        "resumo_extenso": (
+            "A Natura &Co é a maior multinacional brasileira do setor de cosméticos, higiene pessoal e beleza, "
+            "fundada em 1969 em São Paulo por Luiz Seabra. Líder absoluta no modelo de venda direta por relações "
+            "(mais de 2 milhões de consultoras de beleza no Brasil e América Latina) e pioneira na expansão omnichannel "
+            "(com centenas de lojas físicas próprias, franquias 'Aqui Tem Natura' e forte plataforma de e-commerce). "
+            "Trabalha com portfólio completo em perfumaria (Essencial, Kaiak, Humor, Ilía), cuidados com o corpo (Tododia, Ekos), "
+            "tratamento facial antissinais (Chronos), maquiagem (Una, Aquarela, Faces) e cuidados infantis (Mamãe e Bebê). "
+            "Opera em mais de 100 países com faturamento multibilionário consolidado na B3 (NTCO3).\n\n"
+            "Seus principais concorrentes diretos no mercado brasileiro são o Grupo Boticário (O Boticário, Eudora, "
+            "Quem Disse Berenice?, Vult), Unilever (Dove, Rexona, Seda), L'Oréal Brasil e multinacionais de venda direta "
+            "e varejo. A Natura se destaca mundialmente pelo pioneirismo em sustentabilidade: primeira empresa de capital "
+            "aberto a se certificar como Empresa B (B Corp) no mundo, carbono neutro desde 2007, pioneira mundial no uso "
+            "de refis ecológicos em larga escala desde 1983 e preservação ativa de mais de 2 milhões de hectares de floresta "
+            "em pé na Amazônia por meio do fornecimento sustentável de bioativos sociobiodiversos (castanha, ucuuba, murumuru, andiroba).\n\n"
+            "No ecossistema universitário, a Natura é uma das marcas empregadoras mais desejadas do Brasil, exigindo constante "
+            "atração de engenheiros químicos para pesquisa, desenvolvimento de formulações e scale-up fabril, engenheiros de produção "
+            "para cadeia de suprimentos e logística integrada, químicos e biólogos para P&D botânico, e profissionais de TI/Computação "
+            "para sua plataforma de comércio eletrônico e soluções digitais das consultoras."
+        ),
+        "atuacao_bh_mg_detalhada": (
+            "A) POLOS NACIONAIS E INTERNACIONAIS (FORA DE MG):\n"
+            "• Sede e Complexo Fabril de Cajamar (São Paulo - SP): Espaço Natura, centro integrado de manufatura de cosméticos, centro tecnológico de P&D avançado e principal hub de distribuição nacional.\n"
+            "• Ecoparque de Benevides (Pará - PA): Parque industrial sustentável na Amazônia voltado ao processamento de bioativos botânicos, extração de óleos vegetais e fabricação de sabonetes com insumos da floresta em pé.\n"
+            "• Centros de Distribuição Nacionais: Hubs logísticos estrategicamente distribuídos em São Paulo, Castanhal (PA), Jundiaí (SP) e outras capitais.\n\n"
+            "B) PRESENÇA EM MINAS GERAIS: SIM\n"
+            "• Centro de Distribuição em Matias Barbosa (MG): Hub logístico estratégico na Zona da Mata mineira que atende o fluxo de abastecimento para o Sudeste e interior do estado com alta tecnologia de picking e armazenagem.\n"
+            "• Rede de Lojas Físicas & Franquias 'Aqui Tem Natura': Dezenas de unidades franqueadas e lojas próprias espalhadas pelas principais cidades mineiras (Juiz de Fora, Uberlândia, Sete Lagoas, Montes Claros, Contagem, Betim).\n\n"
+            "C) PRESENÇA EM BELO HORIZONTE: SIM\n"
+            "• Escritório Regional de Negócios e Vendas: Coordenação da força de vendas, consultoras de beleza e gestão de contas do canal varejo em Minas Gerais.\n"
+            "• Lojas Próprias em Shopping Centers: Lojas de experiência da marca instaladas nos principais shoppings de BH (BH Shopping, DiamondMall, Pátio Savassi, Shopping ViaBrasil Pampulha, Centerminas) e região metropolitana (Nova Lima)."
+        ),
+        "programas_estagio_trainee_completo": (
+            "A) PROGRAMAS NACIONAIS:\n\n"
+            "• Programa de Estágio Natura &Co (Ciclos Anuais / Semestrais):\n"
+            "  - Cursos-alvo: Engenharia Química, Engenharia de Produção, Engenharia Ambiental, Química, Química Tecnológica, "
+            "Farmácia, Ciência da Computação, Sistemas de Informação, Administração, Economia e Design.\n"
+            "  - Localidades: Modelo de trabalho híbrido com vagas em São Paulo/Cajamar, Matias Barbosa (MG) e Benevides (PA).\n\n"
+            "• Programa Trainee / Aceleração de Liderança (CorageNatura / Jovens Talentos):\n"
+            "  - Cursos-alvo: Bacharelados e Engenharias em geral, com foco em desenvolvimento de líderes para Inovação, P&D, Operações/Logística, Finanças, Comercial e Sustentabilidade.\n"
+            "  - Duração: 18 a 24 meses com job rotation executivo e mentoria de vice-presidentes.\n\n"
+            "B) PROGRAMAS EM BH / MINAS GERAIS:\n\n"
+            "• Contrata estagiários em MG? SIM. Unidades: Centro de Distribuição de Matias Barbosa (Supply Chain, Logística, Engenharia de Produção) e Escritório de Operações de Belo Horizonte.\n"
+            "• Contrata recém-formados da UFMG? SIM. A UFMG é a principal fonte de químicos, engenheiros químicos, engenheiros de produção e gestores de excelência técnica e sustentabilidade no estado."
+        ),
+        "outras_feiras_tabela": [
+            {"feira": "Workshop Integrativo (WI - Poli USP)", "status_2025": "Não", "status_2026": "Não",
+             "detalhes": "Sem participação confirmada nas edições recentes da feira da USP."},
+            {"feira": "PUC Carreiras (PUC Minas)", "status_2025": "Não", "status_2026": "Não",
+             "detalhes": "Sem patrocínio confirmado nas edições recentes da PUC Minas."}
+        ],
+        "posicionamento_esg_inovacao": (
+            "1. Amazônia Viva & Clima (Carbono Neutro e Floresta em Pé):\n"
+            "Compromisso global 'Visão 2030' com desmatamento zero na cadeia de suprimentos e preservação de 2 milhões de hectares de floresta amazônica. "
+            "Empresa pioneira neutra em emissões de carbono desde 2007 (compensação de 100% dos escopos 1, 2 e 3) e remuneração justa de mais de 40 comunidades agroextrativistas parceiras.\n\n"
+            "2. Circularidade Radical & Selo Empresa B (B Corp):\n"
+            "Primeira companhia de capital aberto do mundo a obter a certificação B Corp (recertificada com pontuação recorde). Uso massivo de até 100% de plástico reciclado pós-consumo (PCR) "
+            "e vidro reciclado nas linhas Ekos e Kaiak, e liderança global no uso de refis ecológicos que evitam o descarte de milhares de toneladas de resíduos anualmente.\n\n"
+            "3. Ciência, Tecnologia & Inovação Limpa (Cruelty-Free):\n"
+            "Investimento anual de centenas de milhões de reais em P&D no Ecoparque e no Espaço Natura, com mais de 70 patentes ativas em biotecnologia botânica e química verde. "
+            "Totalmente livre de testes em animais desde 2006 (certificada pelos selos internacionais Leaping Bunny e Cruelty Free International) e inovação aberta em parceria com universidades brasileiras."
+        ),
+        "guia_reuniao_ganchos": [
+            "1. 'A Natura é a maior referência de sustentabilidade e ESG corporativo do Brasil, e os estudantes da UFMG — especialmente de Engenharia Química, Produção, Farmácia e Biotecnologia — têm um alinhamento cultural e de propósito imediato com a marca.'",
+            "2. 'Com o Centro de Distribuição em Matias Barbosa e a forte operação de varejo em Belo Horizonte, Minas Gerais é um mercado logístico e comercial chave para a Natura. Estar presente na Feira de Carreiras da UFMG posiciona a empresa diretamente na maior vitrine universitária do estado.'",
+            "3. 'Identificamos mais de 3.200 alunos na UFMG dentro do perfil de contratação da Natura (Engenharia Química, Produção, TI, Farmácia e Gestão), com mais de 78% ativamente abertos a propostas de estágio e trainee. É o ambiente perfeito para atrair talentos alinhados com a cultura de inovação limpa.'"
+        ],
+        "guia_reuniao_pitch": (
+            "\"A Natura &Co é sinônimo de excelência em sustentabilidade, cosméticos de alta tecnologia e liderança B Corp no mundo. Para alimentar seu ciclo contínuo de inovação em produtos naturais, supply chain complexo e transformação digital das consultoras, a qualidade técnica dos talentos de entrada é o fator determinante de sucesso.\n\n"
+            "Ao patrocinar a Feira de Carreiras da UFMG, a Natura ganha acesso presencial prioritário aos mais de 7.800 alunos da melhor universidade federal do país. É a oportunidade ideal para realizar ativação de marca empregadora, colher currículos para os programas de Estágio e Trainee, e engajar estudantes apaixonados por biotecnologia, química verde e impacto socioambiental positivo.\""
+        ),
+        "guia_reuniao_objecoes": [
+            {
+                "objecao": "Nossa sede principal e fábricas ficam em São Paulo (Cajamar) e Pará (Benevides), e não em BH.",
+                "resposta": "O programa de estágio da Natura adota regime híbrido, e a empresa possui o Centro de Distribuição em Matias Barbosa/MG e escritórios em BH. Além disso, os formandos da UFMG têm altíssima mobilidade e grande desejo de atuar nos polos de P&D em Cajamar ou no Ecoparque do Pará, atraídos pela reputação global da marca."
+            },
+            {
+                "objecao": "Já recrutamos com sucesso por plataformas digitais como Eureca e Bettha.",
+                "resposta": "As plataformas digitais recebem grande volume de inscritos genéricos. A Feira da UFMG oferece o contato presencial e relacional com os estudantes mais qualificados do estado (nota máxima no ENADE), permitindo avaliar fit cultural, propósito e brilho no olho antes da seleção."
+            },
+            {
+                "objecao": "A Natura ainda não participou da Feira da UFMG e não tem verba pré-aprovada para este evento.",
+                "resposta": "Como a Natura é uma nova prospecção no evento, podemos estruturar uma cota inicial com excelente relação custo-benefício, garantindo estande de experiência de marca no campus, divulgação exclusiva para os centros acadêmicos de Engenharia Química, Produção e Farmácia, e acesso ao banco de dados qualificado de formandos."
+            }
+        ],
+        "cursos_alvo_lista": [
+            "Engenharia Química",
+            "Engenharia de Produção",
+            "Química",
+            "Química Tecnológica",
+            "Farmácia",
+            "Engenharia Ambiental",
+            "Ciência da Computação",
+            "Sistemas de Informação",
+            "Administração",
+            "Design"
+        ],
+        "duracao_estagio": "Duração de 1 a 2 anos, com jornada de 30h semanais em modelo híbrido. O programa oferece bolsa-auxílio competitiva com o setor de bens de consumo, assistência médica, vale-refeição, desconto em produtos das marcas Natura &Co e trilha de mentoria voltada para projetos sustentáveis e inovação de produtos.",
+        "duracao_trainee": "Duração de 18 a 24 meses (Programa CorageNatura / Jovens Talentos), com rotação estratégica entre áreas de Negócios, Inovação, P&D, Operações Industriais/Logística e Sustentabilidade, com tutoria de diretores executivos.",
+        "ciclos_processo_seletivo": "Estágio: processos de recrutamento abertos no meio do ano (maio a junho) e no segundo semestre (agosto a outubro). Trainee: ciclos anuais ou bianuais com inscrições no segundo semestre, totalmente alinhados à data da Feira de Carreiras da UFMG.",
+        "atuacao_previa_ufmg": "A Natura ainda não possui histórico de patrocínio formal nas edições recentes da Feira de Carreiras da UFMG, tornando a edição 2026 uma oportunidade pioneira de atração institucional no campus. A companhia mantém interlocução acadêmica com pesquisadores da área de produtos naturais, fitoquímica e química orgânica da UFMG.",
+        "iniciativas_ufmg_agregadoras": (
+            "1. Empresa Júnior Otimiza Jr. (Engenharia de Produção): Consultoria em modelagem de processos, supply chain e logística reversa, com forte aderência aos fluxos de distribuição de cosméticos e atendimento à rede de consultoras.\n"
+            "2. Empresa Júnior EMAS Jr. (Engenharia Ambiental): Projetos de gestão de resíduos, pegada ecológica e sustentabilidade hídrica/energética, em consonância direta com as metas de economia circular da Natura.\n"
+            "3. Empresa Júnior CPE Jr. (Computação & Elétrica): Desenvolvimento de soluções tecnológicas, inteligência de dados e plataformas digitais voltadas para omnichannel e vendas online.\n"
+            "4. Laboratórios de Fitoquímica e Química de Produtos Naturais do ICEx-UFMG: Pesquisas avançadas em óleos essenciais, síntese verde, biopolímeros e caracterização de biomoléculas vegetais.\n"
+            "5. Faculdade de Farmácia da UFMG (Departamento de Produtos Farmacêuticos): Ensaios de estabilidade dermocosmética, cosmetologia e formulações tópicas."
+        ),
+        "inteligencia_marca_top_of_mind": (
+            "A Natura possui uma das mais altas taxas de admiração e recall espontâneo entre os estudantes da UFMG quando o tema é sustentabilidade corporativa, certificação B Corp e inovação com bioativos brasileiros. "
+            "A presença presencial com estande e ativação sensorial de produtos na Feira de Carreiras consolida a Natura como principal escolha de carreira no setor de bens de consumo e cosméticos para os engenheiros e gestores formados no campus."
+        ),
+        "roteiro_fechamento_cotas": (
+            "Avanço de Proposta Comercial: Entrada estratégica com Cota Prata ou Cota Ouro na Feira de Carreiras 2026. A cota garante estande institucional de alto impacto sensorial no pátio central da Escola de Engenharia, palestra técnica de inovação e ESG no auditório principal, ativação direcionada para os cursos prioritários (Engenharia Química, Produção, Farmácia, TI e Administração) e acesso irrestrito ao banco de talentos de estudantes formandos."
+        ),
+        "matriz_objecoes_pos": [
+            {"objecao": "A Natura já recebe muitos currículos espontaneamente pelo site de carreiras.", "resposta": "O volume bruto do site de carreiras não garante atração qualificada e direcionada. A presença física no campus da UFMG atrai o topo acadêmico dos cursos de Engenharia Química e Produção, alunos com premiações, iniciação científica e perfil de liderança prontos para os desafios de P&D e logística."},
+            {"objecao": "Nossas operações em MG são de logística (CD Matias Barbosa) e varejo, e não fábrica de cosméticos.", "resposta": "Os engenheiros de produção, ambiental e químicos da UFMG têm excelência exatamente em modelagem de redes de distribuição, sustentabilidade logística e gestão de operações. Além disso, muitos formandos buscam mobilidade corporativa para atuar no complexo de P&D de Cajamar."},
+            {"objecao": "Nosso orçamento para feiras de carreiras é centralizado na matriz em São Paulo.", "resposta": "Apresentamos uma proposta modularizada com dados objetivos: são mais de 3.200 alunos da UFMG nos cursos exatos de contratação da Natura. O investimento em cota na UFMG custa uma fração do valor de uma única contratação por consultoria externa de hunting."},
+            {"objecao": "Queremos focar mais em projetos com laboratórios do que em feiras de recrutamento.", "resposta": "O patrocínio da Feira de Carreiras abre a porta institucional da Escola de Engenharia, permitindo que a equipe de P&D e RH da Natura se conecte simultaneamente com os laboratórios de pesquisa, as empresas juniores e o melhor banco de estagiários do estado."}
+        ]
+    },
 }
 
 
